@@ -1,0 +1,11 @@
+[38;5;136m[8adbaa74][0m[38;5;160m[Logcat][0m Logcat terminated with code 0, signal null
+Error: Could not find a connected Android device in 20000ms
+    at ADB.getDevicesWithRetry (file:///C:/Users/hanum/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-adb/lib/tools/system-calls.ts:352:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at execFunc (file:///C:/Users/hanum/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-adb/lib/tools/system-calls.ts:517:9)
+    at ADB.adbExec (file:///C:/Users/hanum/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-adb/lib/tools/system-calls.ts:556:12)
+    at ADB.shell (file:///C:/Users/hanum/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-adb/lib/tools/system-calls.ts:602:10)
+    at ADB.setDefaultHiddenApiPolicy (file:///C:/Users/hanum/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-adb/lib/tools/device-settings.ts:329:5)
+    at AndroidUiautomator2Driver.deleteSession (file:///C:/Users/hanum/.appium/node_modules/appium-uiautomator2-driver/lib/driver.ts:593:9)
+    at AndroidUiautomator2Driver.startUnexpectedShutdown (C:\Users\hanum\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\driver.ts:205:9)
+    at Timeout._onTimeout (C:\Users\hanum\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\driver.ts:226:7)

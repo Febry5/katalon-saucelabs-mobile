@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_checkout_berhasil</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b5edc1fd-2f72-4ee2-9997-fb0d10f24aee</testCaseGuid>
+</TestCaseEntity>
